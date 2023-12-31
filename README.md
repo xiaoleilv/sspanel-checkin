@@ -26,7 +26,7 @@
 4. 定时任务中新增任务，命令/脚本如下：
 
    ```
-   task SPCheckin.js
+   task sspanel-checkin.js
    ```
 
    
